@@ -1,0 +1,48 @@
+.mylusi {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mylogin {
+    text-align: right;
+}
+
+.mylogin1 {
+    text-align: center;
+}
+
+h1,
+h3 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+nav ul li {
+    display: inline;
+    margin-left: 10px;
+    background-color: gray;
+    padding: 4px;
+    border-radius: 3px;
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+
+a:link {
+    color: #ffffff;
+}
+
+a:hover {
+    color: #000000;
+}
+
+.teste {
+    color: rgb(22, 42, 174);
+}
